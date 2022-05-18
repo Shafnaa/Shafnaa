@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shafnaa. People call me Yana.
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning html.
-- 💞️ I’m looking to collaborate on Hann.
+- 💞️ I’m looking to collaborate on .
 - 📫 You can reach me on instagram @saujanashafi
 
 <!---
