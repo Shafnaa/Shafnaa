@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shafnaa. People call me Yana.
+- 👋 Hi, I’m @Shafnaa. You can call me Yana.
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Next.js.
